@@ -14,8 +14,7 @@ Python Dictionaries
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="https://github.com/judejuma/python_dictionaries/" title="Title">
-Cost of Trip</a>
+>Link to deployed page _(click here)_<a href="https://github.com/judejuma/python_dictionaries/" title="Title"> Python Dictionaries</a>
 >
 >---------------------------
 
